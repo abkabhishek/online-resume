@@ -135,8 +135,8 @@ skills:
 evaluation: 
     display: true
     title: Self-evaluation
-    intro: Here is my self evaluation
-    items: 
+    details:
+    Here is my self evaluation
        - Software Development & Test Automation 
           -	Design and Development of Scalable web application using Python and JavaScript.
           -	Programming in Python, JavaScript, Java, VBA.
@@ -152,6 +152,7 @@ evaluation:
           -	Assisted with prioritization and resolution of software defects.
           -	Removed impediments by finding the right personnel to remove the impediment.
           -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
+
 footer:
     display: false
 close: "Sorry, my resume has been hidden. You can contanct me at me {at} example.com.\n"
