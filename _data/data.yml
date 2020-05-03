@@ -134,22 +134,27 @@ skills:
 evaluation:
     display: true
     title: Self-evaluation
-    details: "Here is my self evaluation\n
-      - Software Development & Test Automation: \n
-          \t\t-	Design and Development of Scalable web application using Python and JavaScript.\n
-          \t\t-	Programming in Python, JavaScript, Java, VBA.\n
-          \t\t-	Experience in developing and consuming RESTful services.\n
-          \t\t-	Actively involved in development and reviewing of test cases and test plans.\n
-          \t\t-	Design and development of test automation framework from scratch.\n
-          \t\t-	Experience in Django, Flask, MEAN Stack, AngularJS and React.\n
+    intro: Here is my self evaluation
+    items: 
+       - 
+         name : Software Development & Test Automation 
+         details: |
+          +	Design and Development of Scalable web application using Python and JavaScript.\n
+          +	Programming in Python, JavaScript, Java, VBA.\n
+          +	Experience in developing and consuming RESTful services.\n
+          +	Actively involved in development and reviewing of test cases and test plans.\n
+          +	Design and development of test automation framework from scratch.\n
+          +	Experience in Django, Flask, MEAN Stack, AngularJS and React.\n
 
-      - Scrum & Team Leadership: 
-          \t\t-	Experienced in a high-speed, agile environment.
-          \t\t-	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings.
+      - 
+         name : Scrum & Team Leadership
+         details: |
+          +	Experienced in a high-speed, agile environment.
+          +	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings.
           +	Continuously learned Agile/Scrum techniques and shared findings with the team.
           +	Assisted with prioritization and resolution of software defects.
           +	Removed impediments by finding the right personnel to remove the impediment.
-          +	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools."
+          +	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
 
 footer:
     display: false
