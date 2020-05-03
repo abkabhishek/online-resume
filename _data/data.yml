@@ -134,14 +134,14 @@ skills:
 evaluation:
     display: true
     title: Self-evaluation
-    details: Here is my self evaluation
-        - Software Development & Test Automation 
-          +	Design and Development of Scalable web application using Python and JavaScript.
-          +	Programming in Python, JavaScript, Java, VBA.
-          +	Experience in developing and consuming RESTful services.
-          +	Actively involved in development and reviewing of test cases and test plans.
-          +	Design and development of test automation framework from scratch.
-          +	Experience in Django, Flask, MEAN Stack, AngularJS and React.
+    details: Here is my self evaluation\n
+        - Software Development & Test Automation\n
+          -	Design and Development of Scalable web application using Python and JavaScript.\n
+          -	Programming in Python, JavaScript, Java, VBA.\n
+          -	Experience in developing and consuming RESTful services.\n
+          -	Actively involved in development and reviewing of test cases and test plans.\n
+          -	Design and development of test automation framework from scratch.\n
+          -	Experience in Django, Flask, MEAN Stack, AngularJS and React.\n
 
         - Scrum & Team Leadership
           +	Experienced in a high-speed, agile environment.
