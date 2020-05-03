@@ -1,212 +1,120 @@
 intro:
-    name: Abhishek Kumar
-    title: Senior SDET in EPAM | EX - Apple inc | Python, Java, JavaScript | Developing Tools, Automation Frameworks and Scripts | DevOps
+    name: 'Abhishek Kumar'
+    title: 'Senior SDET in EPAM | EX - Apple inc | Python, Java, JavaScript | Developing Tools, Automation Frameworks and Scripts | DevOps'
     avatar:
         display: true
         path: profile.png
-
 contact:
     email: abkabhi@gmail.com
     phone: +91-844-720-2331
-    wechat: 
-    telegram: 
-    website:
-    linkedin: https://www.linkedin.com/in/abhishek-kumar-79001011/
+    wechat: null
+    telegram: null
+    website: null
+    linkedin: 'https://www.linkedin.com/in/abhishek-kumar-79001011/'
     github: abkabhishek
-    gitlab: 
-    bitbucket: 
-    twitter: 
-    stackoverflow: 
-    codewars: 
-    goodreads: 
-
+    gitlab: null
+    bitbucket: null
+    twitter: null
+    stackoverflow: null
+    codewars: null
+    goodreads: null
 languages:
     display: true
     title: Languages
     items:
-        - idiom: Hindi
-          level: Native
-
-        - idiom: English
-          level: Professional
-
+        -
+            idiom: Hindi
+            level: Native
+        -
+            idiom: English
+            level: Professional
 interests:
     display: true
     title: Interests
     items:
-        - item: Sketching
-          link:
-        - item: Gaming
-        - item: Watching Movies
-    
+        -
+            item: Sketching
+            link: null
+        -
+            item: Gaming
+        -
+            item: 'Watching Movies'
 profile:
     display: true
-    title: Career Overview
-    details: |
-      + 7+ years’ experience in SDET and 9+ years’ total experience in QA.
-      + Experience in Development of Frameworks/Test Tools using various technologies in Python, JavaScript and Java.
-      + Experience in different automation libraries (Selenium WebDriver, Cucumber, Chakram.Js, TestNG, Pytest, Behave, PyTest) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles). 
-      + Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA
-      + Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.
-      + Can work as IC or Team Lead role in Test Automation and Architecture Design
-
+    title: 'Career Overview'
+    details: "+ 7+ years’ experience in SDET and 9+ years’ total experience in QA.\n+ Experience in Development of Frameworks/Test Tools using various technologies in Python, JavaScript and Java.\n+ Experience in different automation libraries (Selenium WebDriver, Cucumber, Chakram.Js, TestNG, Pytest, Behave, PyTest) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles). \n+ Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA\n+ Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.\n+ Can work as IC or Team Lead role in Test Automation and Architecture Design\n"
 education:
     display: true
     title: Education
     items:
-        - university: GGSIPU, Delhi
-          time: 2006 - 2010
-          major: Computer Science & Engineering
-          degree: B.Tech
-
+        -
+            university: 'GGSIPU, Delhi'
+            time: '2006 - 2010'
+            major: 'Computer Science & Engineering'
+            degree: B.Tech
 experiences:
     display: true
     title: Experiences
     items:
-        - role: Senior Software Test Automation Engineer
-          time: 2020.02 - 
-          company: Epam Systems
-          location: Hyderabad
-        
-        - role: Test Automation Lead
-          time: 2019.04 - 2020.02
-          company: Apple (payroll Techsophy)
-          location: Hyderabad
-        - role: Test Lead Engineer
-          time: 2014.04 - 2019.03
-          company: Belzabar Software Design
-          location: Delhi
-        - role: Test Engineer
-          time: 2012.07 - 2014.03
-          company: Excelsoft Technologies
-          location: Noida
-        - role: QA Tester
-          time: 2010.06 - 2012.06
-          company: iEnergizer
-          location: Noida
-
+        -
+            role: 'Senior Software Test Automation Engineer'
+            time: '2020.02 -'
+            company: 'Epam Systems'
+            location: Hyderabad
+        -
+            role: 'Test Automation Lead'
+            time: '2019.04 - 2020.02'
+            company: 'Apple (payroll Techsophy)'
+            location: Hyderabad
+        -
+            role: 'Test Lead Engineer'
+            time: '2014.04 - 2019.03'
+            company: 'Belzabar Software Design'
+            location: Delhi
+        -
+            role: 'Test Engineer'
+            time: '2012.07 - 2014.03'
+            company: 'Excelsoft Technologies'
+            location: Noida
+        -
+            role: 'QA Tester'
+            time: '2010.06 - 2012.06'
+            company: iEnergizer
+            location: Noida
 projects:
     display: true
     title: Projects
-    intro: |
-      These are all the projects I'm involved in professionally.
-    
+    intro: "These are all the projects I'm involved in professionally.\n"
     items:
-        - name: Maps Ecosystem
-          details: Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow arcoss the globe.
-          + Platform : Mac OS/iOS
-          + Technologies used in Test/Development : Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.
-          + Roles & Responsibilities : Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.
-
-        - name: Meta Search Engine
-          details: |
-          Search engine to provide private search results without tracking.
-           + Platform : Mobile & Web
-           + Technologies used in Test/Development : Python & Selenium UI Automation, Postman & Nodejs for API automation, Shell scripts for system automation and setup.
-           + Roles & Responsibilities : 
-                •   Test delivery/sign off
-                •   Automation framework restructuring and setup
-                •	Automation of UI and API cases in BDD format.
-                •	Code review of automated cases and framework changes and common utilities.
-                •	Peer review of tests and execution
-                •	Test task management and team sync up/followups
-                •	Followed Agile Sprint flow of 2 week sprint plan.
-                •	Maintaining documentations for Test executions and functional specifications
-                •	Used Selenium for UI automation using Python
-                •	Used Postman + NodeJs for API automation        
-
-        - name: Transport Department Management
-          details: |
-          Cloud system to manage operations and transaction work for sale/purchase of Automobiles as Retail/Wholesale.
-           + Platform : Web
-           + Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, GitLab, Shell scripts for system automation and setup.
-           + Roles & Responsibilities : 
-                •	Test Case/Scenario writing and execution.
-                •	QA Sign off for assigned sub modules.
-                •	Automation of UI and API cases and execution in Gitlab Pipelines.
-                •	Documentation of Test Plan, Test Scenarios and Test Results.
-                •	Followed Agile Sprint flow of 2 week sprint plan.
-                •	Used Selenium for UI Automation using Python.
-                •	Used NodeJS for API automation.
-
-
-        - name: Educational Tests and Learning E-commerce platform
-          details: |
-          Platform to provide tests for 1st - High School admission tests for applications to rank them for admission in schools in USA.
-           + Platform : Web, iPads
-           + Technologies used in Test/Development : Java & Selenium for UI Automation
-           + Roles & Responsibilities : 
-                •	Test Case/Scenario writing and execution
-                •	Documentation of Test Plan, Test Cases and Test Results as Test delivery.
-                •	Followed Agile Sprint flow of 2 week sprint plan.
-                •	Used Selenium for UI Automation using Java.
-
-        - name: Process management and Automation
-          details: |
-          Cloud system for Office process management and automation system.
-           + Platform : Web
-           + Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, Jenkins, Shell scripts for system automation and setup.
-           + Roles & Responsibilities : 
-                •	Test Case/Scenario writing and execution.
-                •	Test delivery/Sign off.
-                •	Automation of UI cases.
-                •	Documentation of Test Plan, Test Scenarios and Test Results as Test delivery.
-                •	Used BDD format for Test Cases writing and automation.
-                •	Followed Agile Sprint flow of 2 week sprint plan.
-                •	Used Selenium for UI Automation using Python.
-
-        - name: Email Marketing Automation
-          details: |
-          Email Marketing automation and management system.
-           + Platform : Web
-           + Technologies used in Test/Development : Python & Selenium for UI Automation.
-           + Roles & Responsibilities : 
-                •	Test Case/Scenario writing and execution.
-                •	Automation of UI cases.
-                •	Documentation of Test Plan, Test Cases and Test Results as Test delivery.
-                •	Documentation of functional specifications and User Guides.
-                •	Followed Agile Sprint flow of 2 week sprint plan.
-                •	Used Selenium for UI Automation using Python.
-
-
+        -
+            name: 'Maps Ecosystem'
+            details: 'Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow arcoss the globe.'
+            '+ Platform': 'Mac OS/iOS'
+            '+ Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
+            '+ Roles & Responsibilities': 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
+        -
+            name: 'Meta Search Engine'
+            details: "Search engine to provide private search results without tracking.\n+ Platform : Mobile & Web\n+ Technologies used in Test/Development : Python & Selenium UI Automation, Postman & Nodejs for API automation, Shell scripts for system automation and setup.\n+ Roles & Responsibilities : \n     •   Test delivery/sign off\n     •   Automation framework restructuring and setup\n     •\tAutomation of UI and API cases in BDD format.\n     •\tCode review of automated cases and framework changes and common utilities.\n     •\tPeer review of tests and execution\n     •\tTest task management and team sync up/followups\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tMaintaining documentations for Test executions and functional specifications\n     •\tUsed Selenium for UI automation using Python\n     •\tUsed Postman + NodeJs for API automation"
+        -
+            name: 'Transport Department Management'
+            details: "Cloud system to manage operations and transaction work for sale/purchase of Automobiles as Retail/Wholesale.\n+ Platform : Web\n+ Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, GitLab, Shell scripts for system automation and setup.\n+ Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tQA Sign off for assigned sub modules.\n     •\tAutomation of UI and API cases and execution in Gitlab Pipelines.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python.\n     •\tUsed NodeJS for API automation."
+        -
+            name: 'Educational Tests and Learning E-commerce platform'
+            details: "Platform to provide tests for 1st - High School admission tests for applications to rank them for admission in schools in USA.\n+ Platform : Web, iPads\n+ Technologies used in Test/Development : Java & Selenium for UI Automation\n+ Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Java."
+        -
+            name: 'Process management and Automation'
+            details: "Cloud system for Office process management and automation system.\n+ Platform : Web\n+ Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, Jenkins, Shell scripts for system automation and setup.\n+ Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tTest delivery/Sign off.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results as Test delivery.\n     •\tUsed BDD format for Test Cases writing and automation.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
+        -
+            name: 'Email Marketing Automation'
+            details: "Email Marketing automation and management system.\n+ Platform : Web\n+ Technologies used in Test/Development : Python & Selenium for UI Automation.\n+ Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tDocumentation of functional specifications and User Guides.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
 skills:
     display: true
     title: Skills
-    details: |
-      Here is my skills:
-         +  Operating System		Linux(Ubuntu), Windows, MacOS
-         +  Testing Tools		Selenium WebDriver, Postman, pyautogui
-         +  Languages		Python, JavaScript, Java, Shell script, VBA
-         +  Database		MySql, SQLite, MongoDB
-         +  Cloud                     	AWS(Amazon EC2, Lambda)
-         +  DevOps					CI/CD using Jenkins, Gitlab, Git, Subversion, Docker
-         +  Frameworks	     		Django(python), Flask, MEAN stack, AngularJS, React
-
-
-      ...
-
+    details: "Here is my skills:\n   +  Operating System\t\tLinux(Ubuntu), Windows, MacOS\n   +  Testing Tools\t\tSelenium WebDriver, Postman, pyautogui\n   +  Languages\t\tPython, JavaScript, Java, Shell script, VBA\n   +  Database\t\tMySql, SQLite, MongoDB\n   +  Cloud                     \tAWS(Amazon EC2, Lambda)\n   +  DevOps\t\t\t\t\tCI/CD using Jenkins, Gitlab, Git, Subversion, Docker\n   +  Frameworks\t     \t\tDjango(python), Flask, MEAN stack, AngularJS, React\n\n\n...\n"
 evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    +   Software Development & Test Automation
-        -	Design and Development of Scalable web application using Python and JavaScript.
-        -	Programming in Python, JavaScript, Java, VBA
-        -	Experience in developing and consuming RESTful services
-        -	Actively involved in development and reviewing of test cases and test plans.
-        -	Design and development of test automation framework from scratch
-        -	Experience in Django, Flask, MEAN Stack, AngularJS and React
-    +   Scrum & Team Leadership
-        -	Experienced in a high-speed, agile environment
-        -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings
-        -	Continuously learned Agile/Scrum techniques and shared findings with the team
-        -	Assisted with prioritization and resolution of software defects
-        -	Removed impediments by finding the right personnel to remove the impediment
-        -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
-
-footer: 
-  display: false
-
-close: >
-  Sorry, my resume has been hidden. You can contanct me at me {at} example.com.
+    display: true
+    title: Self-evaluation
+    details: "Here is my self evaluation.\n+   Software Development & Test Automation\n    -\tDesign and Development of Scalable web application using Python and JavaScript.\n    -\tProgramming in Python, JavaScript, Java, VBA\n    -\tExperience in developing and consuming RESTful services\n    -\tActively involved in development and reviewing of test cases and test plans.\n    -\tDesign and development of test automation framework from scratch\n    -\tExperience in Django, Flask, MEAN Stack, AngularJS and React\n+   Scrum & Team Leadership\n    -\tExperienced in a high-speed, agile environment\n    -\tProject planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings\n    -\tContinuously learned Agile/Scrum techniques and shared findings with the team\n    -\tAssisted with prioritization and resolution of software defects\n    -\tRemoved impediments by finding the right personnel to remove the impediment\n    -\tTracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.\n"
+footer:
+    display: false
+close: "Sorry, my resume has been hidden. You can contanct me at me {at} example.com.\n"
