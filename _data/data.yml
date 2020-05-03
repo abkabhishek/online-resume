@@ -131,6 +131,7 @@ skills:
     - Cloud : \tAWS(Amazon EC2, Lambda)\n   
     - DevOps : \t\t\t\t\tCI/CD using Jenkins, Gitlab, Git, Subversion, Docker\n 
     - Frameworks : \t     \t\tDjango(python), Flask, MEAN stack, AngularJS, React\n\n\n...\n"
+
 evaluation:
     display: true
     title: Self-evaluation
@@ -139,12 +140,12 @@ evaluation:
        - 
          name : Software Development & Test Automation 
          details: |
-          +	Design and Development of Scalable web application using Python and JavaScript.\n
-          +	Programming in Python, JavaScript, Java, VBA.\n
-          +	Experience in developing and consuming RESTful services.\n
-          +	Actively involved in development and reviewing of test cases and test plans.\n
-          +	Design and development of test automation framework from scratch.\n
-          +	Experience in Django, Flask, MEAN Stack, AngularJS and React.\n
+          +	Design and Development of Scalable web application using Python and JavaScript.
+          +	Programming in Python, JavaScript, Java, VBA.
+          +	Experience in developing and consuming RESTful services.
+          +	Actively involved in development and reviewing of test cases and test plans.
+          +	Design and development of test automation framework from scratch.
+          +	Experience in Django, Flask, MEAN Stack, AngularJS and React.
 
       - 
          name : Scrum & Team Leadership
