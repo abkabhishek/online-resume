@@ -34,7 +34,6 @@ interests:
     items:
         -
             item: Sketching
-            link: null
         -
             item: Gaming
         -
@@ -43,6 +42,7 @@ profile:
     display: true
     title: 'Career Overview'
     details: "+ 7+ years’ experience in SDET and 9+ years’ total experience in QA.\n+ Experience in Development of Frameworks/Test Tools using various technologies in Python, JavaScript and Java.\n+ Experience in different automation libraries (Selenium WebDriver, Cucumber, Chakram.Js, TestNG, Pytest, Behave, PyTest) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles). \n+ Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA\n+ Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.\n+ Can work as IC or Team Lead role in Test Automation and Architecture Design\n"
+
 education:
     display: true
     title: Education
@@ -52,13 +52,14 @@ education:
             time: '2006 - 2010'
             major: 'Computer Science & Engineering'
             degree: B.Tech
+
 experiences:
     display: true
     title: Experiences
     items:
         -
             role: 'Senior Software Test Automation Engineer'
-            time: '2020.02 -'
+            time: '2020.02 - Present'
             company: 'Epam Systems'
             location: Hyderabad
         -
@@ -89,9 +90,9 @@ projects:
         -
             name: 'Maps Ecosystem'
             details: 'Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow arcoss the globe.'
-            '+ Platform': 'Mac OS/iOS'
-            '+ Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
-            '+ Roles & Responsibilities': 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
+          - '+ Platform': 'Mac OS/iOS'
+          - '+ Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
+          - '+ Roles & Responsibilities': 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
         -
             name: 'Meta Search Engine'
             details: "Search engine to provide private search results without tracking.\n+ Platform : Mobile & Web\n+ Technologies used in Test/Development : Python & Selenium UI Automation, Postman & Nodejs for API automation, Shell scripts for system automation and setup.\n+ Roles & Responsibilities : \n     •   Test delivery/sign off\n     •   Automation framework restructuring and setup\n     •\tAutomation of UI and API cases in BDD format.\n     •\tCode review of automated cases and framework changes and common utilities.\n     •\tPeer review of tests and execution\n     •\tTest task management and team sync up/followups\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tMaintaining documentations for Test executions and functional specifications\n     •\tUsed Selenium for UI automation using Python\n     •\tUsed Postman + NodeJs for API automation"
