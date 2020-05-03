@@ -49,7 +49,6 @@ profile:
       + Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA
       + Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.
       + Can work as IC or Team Lead role in Test Automation and Architecture Design
-      ...
 
 education:
     display: true
@@ -59,7 +58,6 @@ education:
           time: 2006 - 2010
           major: Computer Science & Engineering
           degree: B.Tech
-            ...
 
 experiences:
     display: true
@@ -69,28 +67,23 @@ experiences:
           time: 2020.02 - 
           company: Epam Systems
           location: Hyderabad
-            ...
         
         - role: Test Automation Lead
           time: 2019.04 - 2020.02
           company: Apple (payroll Techsophy)
           location: Hyderabad
-            ...
         - role: Test Lead Engineer
           time: 2014.04 - 2019.03
           company: Belzabar Software Design
           location: Delhi
-            ...    
         - role: Test Engineer
           time: 2012.07 - 2014.03
           company: Excelsoft Technologies
           location: Noida
-            ... 
         - role: QA Tester
           time: 2010.06 - 2012.06
           company: iEnergizer
           location: Noida
-            ... 
 
 projects:
     display: true
@@ -100,10 +93,11 @@ projects:
     
     items:
         - name: Maps
-          link: 
           details: |
            + Technologies used in Test/Development : Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.
-           + Roles & Responsibilities : •	Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.
+           + Roles & Responsibilities : 
+           ++ Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. 
+           ++ Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.
 
 
 publications:
