@@ -135,7 +135,7 @@ skills:
 evaluation: 
     display: true
     title: Self-evaluation
-    details:
+    details: |
     Here is my self evaluation
        - Software Development & Test Automation 
           -	Design and Development of Scalable web application using Python and JavaScript.
