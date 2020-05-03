@@ -132,31 +132,26 @@ skills:
     - DevOps : \t\t\t\t\tCI/CD using Jenkins, Gitlab, Git, Subversion, Docker\n 
     - Frameworks : \t     \t\tDjango(python), Flask, MEAN stack, AngularJS, React\n\n\n...\n"
 
-evaluation:
+evaluation: 
     display: true
     title: Self-evaluation
     intro: Here is my self evaluation
     items: 
-       - 
-         name : Software Development & Test Automation 
-         details: |
-          +	Design and Development of Scalable web application using Python and JavaScript.
-          +	Programming in Python, JavaScript, Java, VBA.
-          +	Experience in developing and consuming RESTful services.
-          +	Actively involved in development and reviewing of test cases and test plans.
-          +	Design and development of test automation framework from scratch.
-          +	Experience in Django, Flask, MEAN Stack, AngularJS and React.
+       - Software Development & Test Automation 
+          -	Design and Development of Scalable web application using Python and JavaScript.
+          -	Programming in Python, JavaScript, Java, VBA.
+          -	Experience in developing and consuming RESTful services.
+          -	Actively involved in development and reviewing of test cases and test plans.
+          -	Design and development of test automation framework from scratch.
+          -	Experience in Django, Flask, MEAN Stack, AngularJS and React.
 
-      - 
-         name : Scrum & Team Leadership
-         details: |
-          +	Experienced in a high-speed, agile environment.
-          +	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings.
-          +	Continuously learned Agile/Scrum techniques and shared findings with the team.
-          +	Assisted with prioritization and resolution of software defects.
-          +	Removed impediments by finding the right personnel to remove the impediment.
-          +	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
-
+       - Scrum & Team Leadership
+          -	Experienced in a high-speed, agile environment.
+          -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings.
+          -	Continuously learned Agile/Scrum techniques and shared findings with the team.
+          -	Assisted with prioritization and resolution of software defects.
+          -	Removed impediments by finding the right personnel to remove the impediment.
+          -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
 footer:
     display: false
 close: "Sorry, my resume has been hidden. You can contanct me at me {at} example.com.\n"
