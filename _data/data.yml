@@ -1,21 +1,21 @@
 intro:
-    name: Foo Bar
-    title: Backend Developer
+    name: Abhishek Kumar
+    title: Senior SDET in EPAM | EX - Apple inc | Python, Java, JavaScript | Developing Tools, Automation Frameworks and Scripts | DevOps
     avatar:
         display: true
         path: profile.png
 
 contact:
-    email: me@example.com
-    phone: +86-111-1111-1111
+    email: abkabhi@gmail.com
+    phone: +91-844-720-2331
     wechat: 
     telegram: 
     website: https://example.com
-    linkedin: 
-    github: github
+    linkedin: https://www.linkedin.com/in/abhishek-kumar-79001011/
+    github: abkabhishek
     gitlab: 
     bitbucket: 
-    twitter: twitter
+    twitter: 
     stackoverflow: 
     codewars: 
     goodreads: 
@@ -24,7 +24,7 @@ languages:
     display: true
     title: Languages
     items:
-        - idiom: Chinese
+        - idiom: Hindi
           level: Native
 
         - idiom: English
@@ -34,88 +34,77 @@ interests:
     display: true
     title: Interests
     items:
-        - item: Reading
+        - item: Sketching
           link:
-        - item: Cooking
+        - item: Gaming
+        - item: Watching Movies
     
 profile:
     display: true
-    title: Profile
+    title: Career Overview
     details: |
-      It's your career profile, you can wirte markdown format text.
-      + First
-      + Second
-
+      + 7+ years’ experience in SDET and 9+ years’ total experience in QA.
+      + Experience in Development of Frameworks/Test Tools using various technologies in Python, JavaScript and Java.
+      + Experience in different automation libraries (Selenium WebDriver, Cucumber, Chakram.Js, TestNG, Pytest, Behave, PyTest) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles). 
+      + Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA
+      + Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.
+      + Can work as IC or Team Lead role in Test Automation and Architecture Design
       ...
 
 education:
     display: true
     title: Education
     items:
-        - university: Example University
-          time: 2015 - 2018
-          major: Machine Learning
-          degree: Master
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
-            ...
-        
-        - university: Example University
-          time: 2011 - 2015
-          major: Computer Science
-          degree: Bachelor
-          details: |
-            Experience in this university:
-            + First
-            + Second
-            
+        - university: GGSIPU, Delhi
+          time: 2006 - 2010
+          major: Computer Science & Engineering
+          degree: B.Tech
             ...
 
 experiences:
     display: true
     title: Experiences
     items:
-        - role: Backend Developer
-          time: 2018.03 - 2019.03
-          company: Second Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
-
+        - role: Senior Software Test Automation Engineer
+          time: 2020.02 - 
+          company: Epam Systems
+          location: Hyderabad
             ...
         
-        - role: Backend Developer
-          time: 2017.03 - 2018.03
-          company: First Company
-          location: Beijing
-          details: |
-            Experience in this company:
-            + First
-            + Second
-
+        - role: Test Automation Lead
+          time: 2019.04 - 2020.02
+          company: Apple (payroll Techsophy)
+          location: Hyderabad
             ...
+        - role: Test Lead Engineer
+          time: 2014.04 - 2019.03
+          company: Belzabar Software Design
+          location: Delhi
+            ...    
+        - role: Test Engineer
+          time: 2012.07 - 2014.03
+          company: Excelsoft Technologies
+          location: Noida
+            ... 
+        - role: QA Tester
+          time: 2010.06 - 2012.06
+          company: iEnergizer
+          location: Noida
+            ... 
 
 projects:
     display: true
     title: Projects
     intro: |
-      This is all the projects I'm involved in.
+      These are all the projects I'm involved in professionally.
     
     items:
-        - name: Foo
+        - name: Maps
           link: 
           details: |
-            Project Foo's detail, you can write markdown format text.
+           + Technologies used in Test/Development : Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.
+           + Roles & Responsibilities : •	Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.
 
-        - name: Bar
-          link: 
-          details: |
-            Project Bar's detail, you can write markdown format text.
 
 publications:
     display: true
@@ -155,7 +144,7 @@ evaluation:
     ...
 
 footer: 
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden. You can contanct me at me {at} example.com.
