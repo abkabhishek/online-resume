@@ -136,20 +136,20 @@ evaluation:
     title: Self-evaluation
     details: Here is my self evaluation |
         - Software Development & Test Automation |
-          -	Design and Development of Scalable web application using Python and JavaScript. |
-          -	Programming in Python, JavaScript, Java, VBA |
-          -	Experience in developing and consuming RESTful services |
-          -	Actively involved in development and reviewing of test cases and test plans. |
-          -	Design and development of test automation framework from scratch |
-          -	Experience in Django, Flask, MEAN Stack, AngularJS and React |
+          +	Design and Development of Scalable web application using Python and JavaScript. |
+          +	Programming in Python, JavaScript, Java, VBA |
+          +	Experience in developing and consuming RESTful services |
+          +	Actively involved in development and reviewing of test cases and test plans. |
+          +	Design and development of test automation framework from scratch |
+          +	Experience in Django, Flask, MEAN Stack, AngularJS and React |
 
         - Scrum & Team Leadership |
-          -	Experienced in a high-speed, agile environment |
-          -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings. |
-          -	Continuously learned Agile/Scrum techniques and shared findings with the team. |
-          -	Assisted with prioritization and resolution of software defects. |
-          -	Removed impediments by finding the right personnel to remove the impediment. |
-          -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools. |
+          +	Experienced in a high-speed, agile environment |
+          +	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings. |
+          +	Continuously learned Agile/Scrum techniques and shared findings with the team. |
+          +	Assisted with prioritization and resolution of software defects. |
+          +	Removed impediments by finding the right personnel to remove the impediment. |
+          +	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools. |
 
 footer:
     display: false
