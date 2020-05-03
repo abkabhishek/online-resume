@@ -93,7 +93,7 @@ projects:
     
     items:
         - name: Maps Ecosystem
-          details:|
+          details: |
           Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow arcoss the globe.
           + Platform : Mac OS/iOS
           + Technologies used in Test/Development : Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.
