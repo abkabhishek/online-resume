@@ -32,12 +32,9 @@ interests:
     display: true
     title: Interests
     items:
-        -
-            item: Sketching
-        -
-            item: Gaming
-        -
-            item: 'Watching Movies'
+        -   item: Sketching
+        -   item: Gaming
+        -   item: 'Watching Movies'
 profile:
     display: true
     title: 'Career Overview'
@@ -90,39 +87,39 @@ projects:
         -
             name: 'Maps Ecosystem'
             details: 'Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow arcoss the globe.'
-            '+ Platform': 'Mac OS/iOS'
-            '+ Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
-            '+ Roles & Responsibilities': 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
+            + Platform: 'Mac OS/iOS'
+            + Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
+            + Roles & Responsibilities: 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps. Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
         -
             name: 'Meta Search Engine'
             details: "Search engine to provide private search results without tracking.\n
-            '+ Platform' : Mobile & Web\n
-            '+ Technologies used in Test/Development' : Python & Selenium UI Automation, Postman & Nodejs for API automation, Shell scripts for system automation and setup.\n 
-            '+ Roles & Responsibilities' : \n     •   Test delivery/sign off\n     •   Automation framework restructuring and setup\n     •\tAutomation of UI and API cases in BDD format.\n     •\tCode review of automated cases and framework changes and common utilities.\n     •\tPeer review of tests and execution\n     •\tTest task management and team sync up/followups\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tMaintaining documentations for Test executions and functional specifications\n     •\tUsed Selenium for UI automation using Python\n     •\tUsed Postman + NodeJs for API automation"
+            + Platform : Mobile & Web\n
+            + Technologies used in Test/Development : Python & Selenium UI Automation, Postman & Nodejs for API automation, Shell scripts for system automation and setup.\n 
+            + Roles & Responsibilities : \n     •   Test delivery/sign off\n     •   Automation framework restructuring and setup\n     •\tAutomation of UI and API cases in BDD format.\n     •\tCode review of automated cases and framework changes and common utilities.\n     •\tPeer review of tests and execution\n     •\tTest task management and team sync up/followups\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tMaintaining documentations for Test executions and functional specifications\n     •\tUsed Selenium for UI automation using Python\n     •\tUsed Postman + NodeJs for API automation"
         -
             name: 'Transport Department Management'
             details: "Cloud system to manage operations and transaction work for sale/purchase of Automobiles as Retail/Wholesale.\n
-            '+ Platform' : Web\n
-            '+ Technologies used in Test/Development' : Python & Selenium for UI Automation, Postman & Nodejs for API automation, GitLab, Shell scripts for system automation and setup.\n
-            '+ Roles & Responsibilities' : \n     •\tTest Case/Scenario writing and execution.\n     •\tQA Sign off for assigned sub modules.\n     •\tAutomation of UI and API cases and execution in Gitlab Pipelines.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python.\n     •\tUsed NodeJS for API automation."
+            + Platform : Web\n
+            + Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, GitLab, Shell scripts for system automation and setup.\n
+            + Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tQA Sign off for assigned sub modules.\n     •\tAutomation of UI and API cases and execution in Gitlab Pipelines.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python.\n     •\tUsed NodeJS for API automation."
         -
             name: 'Educational Tests and Learning E-commerce platform'
             details: "Platform to provide tests for 1st - High School admission tests for applications to rank them for admission in schools in USA.\n
-            '+ Platform' : Web, iPads\n
-            '+ Technologies used in Test/Development' : Java & Selenium for UI Automation\n
-            '+ Roles & Responsibilities' : \n     •\tTest Case/Scenario writing and execution\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Java."
+            + Platform : Web, iPads\n
+            + Technologies used in Test/Development : Java & Selenium for UI Automation\n
+            + Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Java."
         -
             name: 'Process management and Automation'
             details: "Cloud system for Office process management and automation system.\n
-            '+ Platform' : Web\n
-            '+ Technologies used in Test/Development' : Python & Selenium for UI Automation, Postman & Nodejs for API automation, Jenkins, Shell scripts for system automation and setup.\n
-            '+ Roles & Responsibilities' : \n     •\tTest Case/Scenario writing and execution.\n     •\tTest delivery/Sign off.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results as Test delivery.\n     •\tUsed BDD format for Test Cases writing and automation.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
+            + Platform : Web\n
+            + Technologies used in Test/Development : Python & Selenium for UI Automation, Postman & Nodejs for API automation, Jenkins, Shell scripts for system automation and setup.\n
+            + Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tTest delivery/Sign off.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Scenarios and Test Results as Test delivery.\n     •\tUsed BDD format for Test Cases writing and automation.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
         -
             name: 'Email Marketing Automation'
             details: "Email Marketing automation and management system.\n
-            '+ Platform' : Web\n
-            '+ Technologies used in Test/Development' : Python & Selenium for UI Automation.\n
-            '+ Roles & Responsibilities' : \n     •\tTest Case/Scenario writing and execution.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tDocumentation of functional specifications and User Guides.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
+            + Platform : Web\n
+            + Technologies used in Test/Development : Python & Selenium for UI Automation.\n
+            + Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tDocumentation of functional specifications and User Guides.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
 skills:
     display: true
     title: Skills
@@ -137,15 +134,23 @@ skills:
 evaluation:
     display: true
     title: Self-evaluation
-    details: "Here is my self evaluation.\n
-    Software Development & Test Automation: \n    
-    + Design and Development of Scalable web application using Python and JavaScript.\n    
-    + Programming in Python, JavaScript, Java, VBA\n
-    + Experience in developing and consuming RESTful services\n
-    + Actively involved in development and reviewing of test cases and test plans.\n
-    + Design and development of test automation framework from scratch\n
-    + Experience in Django, Flask, MEAN Stack, AngularJS and React\n+   
-    + Scrum & Team Leadership\n    -\tExperienced in a high-speed, agile environment\n    -\tProject planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings\n    -\tContinuously learned Agile/Scrum techniques and shared findings with the team\n    -\tAssisted with prioritization and resolution of software defects\n    -\tRemoved impediments by finding the right personnel to remove the impediment\n    -\tTracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.\n"
+    details: Here is my self evaluation |
+        - Software Development & Test Automation
+          -	Design and Development of Scalable web application using Python and JavaScript.
+          -	Programming in Python, JavaScript, Java, VBA
+          -	Experience in developing and consuming RESTful services
+          -	Actively involved in development and reviewing of test cases and test plans.
+          -	Design and development of test automation framework from scratch
+          -	Experience in Django, Flask, MEAN Stack, AngularJS and React
+
+        - Scrum & Team Leadership
+          -	Experienced in a high-speed, agile environment
+          -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings
+          -	Continuously learned Agile/Scrum techniques and shared findings with the team
+          -	Assisted with prioritization and resolution of software defects
+          -	Removed impediments by finding the right personnel to remove the impediment
+          -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
+
 footer:
     display: false
 close: "Sorry, my resume has been hidden. You can contanct me at me {at} example.com.\n"
