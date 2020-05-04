@@ -1,6 +1,6 @@
 intro:
     name: 'Abhishek Kumar'
-    title: 'Senior SDET in EPAM | EX - Apple inc | Python, Java, JavaScript | Developing Tools, Automation Frameworks and Scripts | DevOps'
+    title: 'Senior SDET in EPAM | EX - Apple inc | Python, Java, JavaScript | Developing Tools, Automation Frameworks and Scripting | DevOps'
     avatar:
         display: true
         path: profile.png
@@ -38,7 +38,7 @@ interests:
 profile:
     display: true
     title: 'Career Overview'
-    details: "+ 7+ years’ experience in SDET and 9+ years’ total experience in QA.\n+ Experience in Development of Frameworks/Test Tools using various technologies in Python, JavaScript and Java.\n+ Experience in different automation libraries (Selenium WebDriver, Cucumber, Chakram.Js, TestNG, Pytest, Behave, PyTest) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles). \n+ Experience in DevOps tools like Jenkins, Gitlab, AWS Lambda, Git and JIRA\n+ Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery.\n+ Can work as IC or Team Lead role in Test Automation and Architecture Design\n"
+    details: "+ 7+ years’ experience in SDET and 9.10+ years’ total experience in QA.\n+ Experience in Development of Frameworks/Test Tools using various technologies in Python, Java & JavaScript.\n+ Experience in different automation libraries (Selenium WebDriver, Cucumber, TestNG, Behave, PyTest, WebdriverIO, Jest, ChakramJs) in a variety of industries like E-learning, Educational, Meta-Search Engine, Maps, Inventory Systems, E-Commerce and Mainstream Gaming Sector across all platforms (Web, Mobile Devices and Consoles).\n+ Experience in DevOps & Cloud tools like Jenkins, GitLab, AWS Lambda, Git and Docker.\n+ Experience in all Test process from implementation to monitoring and using different matrices to track and optimize Test delivery. Working in Agile from last 8 years using tools like Jira and others.\n"
 
 education:
     display: true
@@ -122,7 +122,7 @@ projects:
             + Roles & Responsibilities : \n     •\tTest Case/Scenario writing and execution.\n     •\tAutomation of UI cases.\n     •\tDocumentation of Test Plan, Test Cases and Test Results as Test delivery.\n     •\tDocumentation of functional specifications and User Guides.\n     •\tFollowed Agile Sprint flow of 2 week sprint plan.\n     •\tUsed Selenium for UI Automation using Python."
 skills:
     display: true
-    title: Skills
+    title: Technicals
     details: "Here is my skills:\n   
     - Operating System : \t\tLinux(Ubuntu), Windows, MacOS\n   
     - Testing Tools : \t\tSelenium WebDriver, Postman, pyautogui\n   
@@ -130,28 +130,23 @@ skills:
     - Database : \t\tMySql, SQLite, MongoDB\n  
     - Cloud : \tAWS(Amazon EC2, Lambda)\n   
     - DevOps : \t\t\t\t\tCI/CD using Jenkins, Gitlab, Git, Subversion, Docker\n 
-    - Frameworks : \t     \t\tDjango(python), Flask, MEAN stack, AngularJS, React\n\n\n...\n"
+    - Frameworks : \t     \t\tDjango(python), Flask, MEAN stack, AngularJS, React\n"
 
 evaluation: 
     display: true
-    title: Self-evaluation
+    title: Skills-Set Experience
     details: |
         Here is my self evaluation
            - Software Development & Test Automation 
-              -	Design and Development of Scalable web application using Python and JavaScript.
-              -	Programming in Python, JavaScript, Java, VBA.
-              -	Experience in developing and consuming RESTful services.
-              -	Actively involved in development and reviewing of test cases and test plans.
-              -	Design and development of test automation framework from scratch.
-              -	Experience in Django, Flask, MEAN Stack, AngularJS and React.
-
-           - Scrum & Team Leadership
-              -	Experienced in a high-speed, agile environment.
-              -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings.
-              -	Continuously learned Agile/Scrum techniques and shared findings with the team.
-              -	Assisted with prioritization and resolution of software defects.
-              -	Removed impediments by finding the right personnel to remove the impediment.
-              -	Tracked and managed Epics, User Stories, product backlog, burndown metrics, velocity, and task breakdown using Jira and other in-house tools.
+                -	Design and Development of Scalable web application using Python and JavaScript.
+                -	Programming in Python, Java, JavaScript & VBA
+                -	Experience in developing and consuming RESTful services in Python and NodeJS.
+                -	Actively involved in development and reviewing of test cases, test plans & test automation.
+                -	Design and development of test automation framework from scratch
+                -	Experience in different frameworks for Application development in Python and JavaScript, including Flask, Django, Express, Angular and React.
+                -	Developed two web applications as Freelance using MEAN stack technologies and deployed that on AWS.
+                -	Experienced in a high-speed, agile environment
+                -	Project planning, daily stand-up meetings, reviews, retrospectives, sprint, release planning, demos and other Scrum-related meetings
 
 footer:
     display: false
