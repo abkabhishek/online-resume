@@ -84,20 +84,20 @@ projects:
     title: Projects
     intro: "These are all the projects I'm involved in professionally.\n"
     items:
-        - name: Maps
-          link: 
-          details: |
-            Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow across the globe. \n
-          items:
-              - Technologies : |
-                 Python & Selenium for UI Automation, Python, JavaScript and Postman for API automation. Shell scripts for system automation and setup. Jenkins & Docker for CI.
-              - Roles & Responsibility : 
-                 - items:
-                     •	Automation of UI and API cases.
-                     •	Running all Automation Jobs in CI/CD environment.
-                     •	Automation framework restructuring and setup for new modules.
-                     •	Code review of automated cases and framework changes and common utilities.
-                     •	Peer review of tests and execution.        
+        -
+            name: 'Meta Search Engine'
+            details: "Search engine to provide private search results without tracking.\n
+            + Technologies : Python & Selenium for UI Automation, JavaScript & Postman for API automation. Shell scripts for system automation and setup. SQLite DB for test history storage for Regression and Performance Test.\n 
+            + Roles & Responsibilities : \n
+                •	Worked on Test Cases, Test Execution and Test Management.
+                •	Automation framework restructuring and setup.
+                •	Automation of UI and API cases in BDD format.
+                •	Created Automated Utility for Page Load Testing across the globe location using third party tool.
+                •	Peer review of tests and execution
+                •	Test task management and team sync up/followups
+                •	Followed Agile Sprint flow of two-week sprint plan.
+                •	Maintaining documentations for Test executions and functional specifications
+                •	Test delivery/sign off"      
                  
         -
             name: 'Meta Search Engine'
