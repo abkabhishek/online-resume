@@ -88,15 +88,16 @@ projects:
           link: 
           details: |
             Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow across the globe. \n
-          + Technologies : |
-             Python & Selenium for UI Automation, Python, JavaScript and Postman for API automation. Shell scripts for system automation and setup. Jenkins & Docker for CI.
-          + Roles & Responsibility : 
-             - items:
-                 •	Automation of UI and API cases.
-                 •	Running all Automation Jobs in CI/CD environment.
-                 •	Automation framework restructuring and setup for new modules.
-                 •	Code review of automated cases and framework changes and common utilities.
-                 •	Peer review of tests and execution.        
+          items:
+              - Technologies : |
+                 Python & Selenium for UI Automation, Python, JavaScript and Postman for API automation. Shell scripts for system automation and setup. Jenkins & Docker for CI.
+              - Roles & Responsibility : 
+                 - items:
+                     •	Automation of UI and API cases.
+                     •	Running all Automation Jobs in CI/CD environment.
+                     •	Automation framework restructuring and setup for new modules.
+                     •	Code review of automated cases and framework changes and common utilities.
+                     •	Peer review of tests and execution.        
                  
         -
             name: 'Meta Search Engine'
