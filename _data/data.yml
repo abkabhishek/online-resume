@@ -85,12 +85,12 @@ projects:
     intro: "These are all the projects I'm involved in professionally.\n"
     items:
             item:
-                name: 'Maps'
-                    details: 'Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow across the globe.'
-                    + Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
-                    + Roles & Responsibilities: |
-                     - items:
-
+            name: 'Maps'
+            details: |
+             'Large ecosystem to develop and support the Maps production. Containing 100+ modules to manage the workflow across the globe.'
+                + Technologies used in Test/Development': 'Python, Java, Selenium, Postman for API automation, Jenkins, AWS, Docker, Flask (python framework), Shell scripts for system automation and setup.'
+                + Roles & Responsibilities: |
+                 - items:
                    -  item : 'Working on Test Automation frameworks and tools for the applications which process large geospatial raw data and preparing backend navigation data required for Apple Maps.' 
                    -  item : 'Running all Automation Jobs in CI/CD environment using Jenkins, Docker and other required set of tools. Automation of UI using Selenium.'
         -
